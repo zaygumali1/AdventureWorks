@@ -13,7 +13,8 @@
         "PasswordHash": "L\/Rlwxzp4w7RWmEgXX+\/A7cXaePEPcp+KwQhl2fJL7w=",
         "PasswordSalt": "1KjXYs4=",
         "rowguid": "3F5AE95E-B87D-4AED-95B4-C3797AFCB74F",
-        "ModifiedDate": "2005-08-01T00:00:00"
+        "ModifiedDate": "2005-08-01T00:00:00",
+        "AddedColumn":"SampleValue"
     },
     {
         "CustomerID": 2,
