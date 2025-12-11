@@ -5,7 +5,7 @@
         "Title": "Mr.",
         "FirstName": "Orlando",
         "MiddleName": "changed001.",
-        "LastName": "Gee",
+        "LastName": "ChangedGee",
         "CompanyName": "A Bike Store",
         "SalesPerson": "adventure-works\\pamela0",
         "EmailAddress": "orlando0@adventure-works.com",
@@ -13249,5 +13249,22 @@
         "PasswordSalt": "QhHP+y8=",
         "rowguid": "2495B4EB-FE8B-459E-A1B6-DBA25C04E626",
         "ModifiedDate": "2006-09-01T00:00:00"
+    },
+    {
+        "CustomerID": 30119,
+        "NameStyle": false,
+        "Title": "Mr.",
+        "FirstName": "zaygum",
+        "MiddleName": "changed001.",
+        "LastName": "ChangedGee",
+        "CompanyName": "A Bike Store",
+        "SalesPerson": "adventure-works\\pamela0",
+        "EmailAddress": "orlando0@adventure-works.com",
+        "Phone": "954-666-0173",
+        "PasswordHash": "L\/Rlwxzp4w7RWmEgXX+\/A7cXaePEPcp+KwQhl2fJL7w=",
+        "PasswordSalt": "1KjXYs4=",
+        "rowguid": "3F5AE95E-B87D-4AED-95B4-C3797AFCB74F",
+        "ModifiedDate": "2005-08-01T00:00:00",
+        "AddedColumn":"SampleValue"
     }
 ]
